@@ -1,0 +1,34 @@
+{
+  "replace": false,
+  "values": [
+    "minitools:mini_wooden_pickaxe",
+    "minitools:mini_wooden_axe",
+    "minitools:mini_wooden_sword",
+    "minitools:mini_wooden_hoe",
+    "minitools:mini_wooden_shovel",
+
+    "minitools:mini_stone_pickaxe",
+    "minitools:mini_stone_axe",
+    "minitools:mini_stone_sword",
+    "minitools:mini_stone_hoe",
+    "minitools:mini_stone_shovel",
+
+    "minitools:mini_golden_pickaxe",
+    "minitools:mini_golden_axe",
+    "minitools:mini_golden_sword",
+    "minitools:mini_golden_hoe",
+    "minitools:mini_golden_shovel",
+
+    "minitools:mini_iron_pickaxe",
+    "minitools:mini_iron_axe",
+    "minitools:mini_iron_sword",
+    "minitools:mini_iron_hoe",
+    "minitools:mini_iron_shovel",
+
+    "minitools:mini_diamond_pickaxe",
+    "minitools:mini_diamond_axe",
+    "minitools:mini_diamond_sword",
+    "minitools:mini_diamond_hoe",
+    "minitools:mini_diamond_shovel"
+  ]
+}

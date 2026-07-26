@@ -1,0 +1,52 @@
+{
+  "item.minitools.diamond_nugget": "Diamond Nugget",
+  "item.minitools.emerald_nugget": "Emerald Nugget",
+  "item.minitools.rock": "Rock",
+  "item.minitools.twig": "Twig",
+  "item.minitools.mini_wooden_sword": "Mini Wooden Sword",
+  "item.minitools.mini_wooden_shovel": "Mini Wooden Shovel",
+  "item.minitools.mini_wooden_pickaxe": "Mini Wooden Pickaxe",
+  "item.minitools.mini_wooden_hoe": "Mini Wooden Hoe",
+  "item.minitools.mini_wooden_axe": "Mini Wooden Axe",
+  "item.minitools.mini_stone_shovel": "Mini Stone Shovel",
+  "item.minitools.mini_stone_sword": "Mini Stone Sword",
+  "item.minitools.mini_stone_pickaxe": "Mini Stone Pickaxe",
+  "item.minitools.mini_stone_hoe": "Mini Stone Hoe",
+  "item.minitools.mini_stone_axe": "Mini Stone Axe",
+  "item.minitools.mini_golden_sword": "Mini Golden Sword",
+  "item.minitools.mini_golden_shovel": "Mini Golden Shovel",
+  "item.minitools.mini_golden_pickaxe": "Mini Golden Pickaxe",
+  "item.minitools.mini_golden_hoe": "Mini Golden Hoe",
+  "item.minitools.mini_golden_axe": "Mini Golden Axe",
+  "item.minitools.mini_iron_sword": "Mini Iron Sword",
+  "item.minitools.mini_iron_shovel": "Mini Iron Shovel",
+  "item.minitools.mini_iron_pickaxe": "Mini Iron Pickaxe",
+  "item.minitools.mini_iron_hoe": "Mini Iron Hoe",
+  "item.minitools.mini_iron_axe": "Mini Iron Axe",
+  "item.minitools.mini_diamond_sword": "Mini Diamond Sword",
+  "item.minitools.mini_diamond_shovel": "Mini Diamond Shovel",
+  "item.minitools.mini_diamond_pickaxe": "Mini Diamond Pickaxe",
+  "item.minitools.mini_diamond_hoe": "Mini Diamond Hoe",
+  "item.minitools.mini_diamond_axe": "Mini Diamond Axe",
+  "item.minitools.ender_slayer_sword": "Ender Slayer Sword",
+
+  "block.minitools.emerald_lantern": "Emerald Lantern",
+  "block.minitools.emerald_soul_lantern": "Emerald Soul Lantern",
+  "block.minitools.golden_lantern": "Golden Lantern",
+  "block.minitools.golden_soul_lantern": "Golden Soul Lantern",
+  "block.minitools.diamond_lantern": "Diamond Lantern",
+  "block.minitools.diamond_soul_lantern": "Diamond Soul Lantern",
+  "block.minitools.rock_block": "Rock Block",
+
+  "tooltip.minitools.rock.tooltip": "Throwable",
+
+
+  "death.attack.minitools.rock": "%1$s was stoned",
+
+  "advancement.minitools.mini_toolsmith": "Mini Toolsmith",
+  "advancement.minitools.mini_toolsmith.desc": "Craft one of the mini tools",
+  "advancement.minitools.king_of_the_endermen": "King of the Endermen",
+  "advancement.minitools.king_of_the_endermen.desc": "Craft the ender slayer sword, allowing you harness the power of enderpearls whenever",
+
+  "itemgroup.mini_tools": "Mini Tools Tab"
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minitools:mini_wooden_pickaxe",
+    "minitools:mini_stone_pickaxe",
+    "minitools:mini_golden_pickaxe",
+    "minitools:mini_iron_pickaxe",
+    "minitools:mini_diamond_pickaxe"
+  ]
+}

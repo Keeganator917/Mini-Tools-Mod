@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minitools:mini_wooden_hoe",
+    "minitools:mini_stone_hoe",
+    "minitools:mini_golden_hoe",
+    "minitools:mini_iron_hoe",
+    "minitools:mini_diamond_hoe"
+  ]
+}

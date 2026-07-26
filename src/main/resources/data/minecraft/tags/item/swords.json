@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minitools:mini_wooden_sword",
+    "minitools:mini_stone_sword",
+    "minitools:mini_golden_sword",
+    "minitools:mini_iron_sword",
+    "minitools:mini_diamond_sword",
+    "minitools:ender_slayer_sword"
+  ]
+}

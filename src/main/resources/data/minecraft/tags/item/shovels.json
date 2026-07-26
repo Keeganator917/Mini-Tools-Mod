@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minitools:mini_wooden_shovel",
+    "minitools:mini_stone_shovel",
+    "minitools:mini_golden_shovel",
+    "minitools:mini_iron_shovel",
+    "minitools:mini_diamond_shovel"
+  ]
+}
