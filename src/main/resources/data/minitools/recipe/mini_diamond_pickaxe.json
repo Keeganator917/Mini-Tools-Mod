@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    " T ",
+    " T "
+  ],
+  "key": {
+    "#": "minitools:diamond_nugget",
+    "T": "minitools:twig"
+  },
+  "result": {
+    "id": "minitools:mini_diamond_pickaxe"
+  }
+}

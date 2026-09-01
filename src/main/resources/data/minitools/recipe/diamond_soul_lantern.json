@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#$#",
+    "###"
+  ],
+  "key": {
+    "#": "minitools:diamond_nugget",
+    "$": "minecraft:soul_torch"
+
+  },
+  "result": {
+    "id": "minitools:diamond_soul_lantern"
+  }
+}

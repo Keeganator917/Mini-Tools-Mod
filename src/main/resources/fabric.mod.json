@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "minitools",
+	"version": "${version}",
+	"name": "Mini Tools",
+	"description": "Adds mini tools and lantern variants",
+	"authors": [
+		"Keeganator917"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/minitools/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"keeganator.minitools.MiniTools"
+		],
+		"client": [
+			"keeganator.minitools.MiniToolsClient"
+		],
+		"fabric-datagen": [
+			"keeganator.minitools.MiniToolsDataGenerator"
+		]
+	},
+	"mixins": [
+		"minitools.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.1",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

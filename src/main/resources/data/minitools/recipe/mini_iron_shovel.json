@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    " T ",
+    " T "
+  ],
+  "key": {
+    "#": "minecraft:iron_nugget",
+    "T": "minitools:twig"
+  },
+  "result": {
+    "id": "minitools:mini_iron_shovel"
+  }
+}

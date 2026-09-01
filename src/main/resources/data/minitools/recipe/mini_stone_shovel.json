@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    " T ",
+    " T "
+  ],
+  "key": {
+    "#": "minitools:rock",
+    "T": "minitools:twig"
+  },
+  "result": {
+    "id": "minitools:mini_stone_shovel"
+  }
+}

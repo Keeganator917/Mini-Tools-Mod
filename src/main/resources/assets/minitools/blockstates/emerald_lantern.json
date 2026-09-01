@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "minitools:block/emerald_lantern"
+    },
+    "hanging=true": {
+      "model": "minitools:block/emerald_lantern_hanging"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minitools:block/rock_block0"
+      },
+      {
+        "model": "minitools:block/rock_block0",
+        "y": 90
+      },
+      {
+        "model": "minitools:block/rock_block0",
+        "y": 180
+      },
+      {
+        "model": "minitools:block/rock_block0",
+        "y": 270
+      },
+      {
+        "model": "minitools:block/rock_block1"
+      },
+      {
+        "model": "minitools:block/rock_block1",
+        "y": 90
+      },
+      {
+        "model": "minitools:block/rock_block1",
+        "y": 180
+      },
+      {
+        "model": "minitools:block/rock_block1",
+        "y": 270
+      },
+      {
+        "model": "minitools:block/rock_block2"
+      },
+      {
+        "model": "minitools:block/rock_block2",
+        "y": 90
+      },
+      {
+        "model": "minitools:block/rock_block2",
+        "y": 180
+      },
+      {
+        "model": "minitools:block/rock_block2",
+        "y": 270
+      },
+      {
+        "model": "minitools:block/rock_block3"
+      },
+      {
+        "model": "minitools:block/rock_block3",
+        "y": 90
+      },
+      {
+        "model": "minitools:block/rock_block3",
+        "y": 180
+      },
+      {
+        "model": "minitools:block/rock_block3",
+        "y": 270
+      }
+    ]
+  }
+}

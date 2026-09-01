@@ -1,0 +1,6 @@
+{
+  "parent": "minitools:block/template_layer_block",
+  "textures": {
+    "all": "minitools:block/rock_block3"
+  }
+}
