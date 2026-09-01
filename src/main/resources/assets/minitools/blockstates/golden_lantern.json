@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "minitools:block/golden_lantern"
+    },
+    "hanging=true": {
+      "model": "minitools:block/golden_lantern_hanging"
+    }
+  }
+}

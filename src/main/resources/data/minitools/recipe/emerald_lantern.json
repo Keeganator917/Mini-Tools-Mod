@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#$#",
+    "###"
+  ],
+  "key": {
+    "#": "minitools:emerald_nugget",
+    "$": "minecraft:torch"
+
+  },
+  "result": {
+    "id": "minitools:emerald_lantern"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "display": {
+    "icon": {
+      "id": "minitools:ender_slayer_sword"
+    },
+    "title": {
+      "translate": "advancement.minitools.king_of_the_endermen"
+    },
+    "description": {
+      "translate": "advancement.minitools.king_of_the_endermen.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "hasEnderSlayerSword": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minitools:ender_slayer_sword"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "hasEnderSlayerSword"
+    ]
+  ]
+}

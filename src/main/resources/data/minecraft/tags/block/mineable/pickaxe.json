@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minitools:emerald_lantern",
+    "minitools:emerald_soul_lantern",
+    "minitools:diamond_lantern",
+    "minitools:diamond_soul_lantern",
+    "minitools:golden_lantern",
+    "minitools:golden_soul_lantern"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:story/root",
+  "criteria": {
+    "got_mini_tool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minitools:mini_tools"
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": { "translate": "advancement.minitools.mini_toolsmith.desc" },
+    "frame": "task",
+    "hidden": true,
+    "icon": { "id": "minitools:mini_wooden_pickaxe" },
+    "show_toast": true,
+    "title": { "translate": "advancement.minitools.mini_toolsmith" }
+  },
+  "requirements": [
+    ["got_mini_tool"]
+  ],
+  "sends_telemetry_event": true
+}
