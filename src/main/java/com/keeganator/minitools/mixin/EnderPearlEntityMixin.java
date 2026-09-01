@@ -12,27 +12,6 @@ import org.spongepowered.asm.mixin.injection.Redirect;
 @Mixin(EnderPearlEntity.class)
 public abstract class EnderPearlEntityMixin {
 
-   /* @Redirect(
-            method = "onCollision",
-            at = @At(
-                    value = "INVOKE",
-                    target = "Lnet/minecraft/server/network/ServerPlayerEntity;damage(Lnet/minecraft/server/world/ServerWorld;Lnet/minecraft/entity/damage/DamageSource;F)V"
-            )
-    )
-    private void minitools$cancelPearlDamageIfEnderSlayer(
-            ServerPlayerEntity player,
-            ServerWorld world,
-            DamageSource source,
-            float amount
-    ) {
-        // If holding EnderSlayerSword, skip damage
-        if (player.getMainHandStack().isOf(ModItems.ENDER_SLAYER_SWORD)
-                || player.getOffHandStack().isOf(ModItems.ENDER_SLAYER_SWORD)) {
-            return;
-        }
+    //If I want to cancel enderpearl damage for enderslayer sword put code here
 
-        // Vanilla behavior otherwise
-        player.damage(world, source, amount);
-    }
-    */
 }

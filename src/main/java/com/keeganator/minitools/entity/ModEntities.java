@@ -1,7 +1,6 @@
 package com.keeganator.minitools.entity;
 
 import com.keeganator.minitools.MiniTools;
-import net.minecraft.entity.EntityDimensions;
 import net.minecraft.entity.EntityType;
 import net.minecraft.entity.SpawnGroup;
 import net.minecraft.registry.Registries;

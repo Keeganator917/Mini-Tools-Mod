@@ -1,24 +1,16 @@
 package com.keeganator.minitools;
 
 import com.keeganator.minitools.block.ModBlocks;
-import com.keeganator.minitools.damagetypes.ModDamageTypes;
 import com.keeganator.minitools.entity.ModEntities;
 import com.keeganator.minitools.item.ModItemGroups;
 import com.keeganator.minitools.item.ModItems;
 import com.keeganator.minitools.worldgen.ModPlacedFeatures;
 import net.fabricmc.api.ModInitializer;
-
 import net.fabricmc.fabric.api.biome.v1.BiomeModifications;
-import net.fabricmc.fabric.api.event.registry.DynamicRegistrySetupCallback;
-import net.minecraft.registry.RegistryKeys;
-import net.minecraft.resource.Resource;
-import net.minecraft.util.Identifier;
 import net.minecraft.world.biome.BiomeKeys;
 import net.minecraft.world.gen.GenerationStep;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
-import java.util.Locale;
 
 public class MiniTools implements ModInitializer {
 	public static final String MOD_ID = "minitools";

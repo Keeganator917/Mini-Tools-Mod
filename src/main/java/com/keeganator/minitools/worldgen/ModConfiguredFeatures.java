@@ -24,12 +24,7 @@ public class ModConfiguredFeatures {
                                 82,
                                 7,
                                 3,
-                                PlacedFeatures.createEntry(
-                                        Feature.SIMPLE_BLOCK,
-                                        new SimpleBlockFeatureConfig(
-                                                BlockStateProvider.of(ModBlocks.ROCK_BLOCK)
-                                        )
-                                )
+                                PlacedFeatures.createEntry(Feature.SIMPLE_BLOCK, new SimpleBlockFeatureConfig(BlockStateProvider.of(ModBlocks.ROCK_BLOCK)))
                         )
                 )
         );

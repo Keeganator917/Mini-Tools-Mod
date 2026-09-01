@@ -10,7 +10,7 @@ public class ModToolMaterials {
     public static final ToolMaterial MINI_WOOD = new ToolMaterial(
             BlockTags.INCORRECT_FOR_WOODEN_TOOL,
             16,          // durability
-            2.0F,        // speed (vanilla wood)
+            2.0F,        // speed
             0.0F,        // attack bonus
             15,          // enchantability
             ItemTags.WOODEN_TOOL_MATERIALS

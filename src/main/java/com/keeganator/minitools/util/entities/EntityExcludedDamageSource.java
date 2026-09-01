@@ -14,10 +14,7 @@ public class EntityExcludedDamageSource extends DamageSource {
 
     protected final List<EntityType<?>> excludedEntities;
 
-    public EntityExcludedDamageSource(
-            RegistryEntry<DamageType> type,
-            EntityType<?>... excludedEntities
-    ) {
+    public EntityExcludedDamageSource(RegistryEntry<DamageType> type, EntityType<?>... excludedEntities) {
         super(type);
         this.excludedEntities = Arrays.asList(excludedEntities);
     }
@@ -35,11 +32,7 @@ public class EntityExcludedDamageSource extends DamageSource {
                     return Text.translatable(baseKey, victim.getDisplayName());
                 }
             }
-            return Text.translatable(
-                    playerKey,
-                    victim.getDisplayName(),
-                    attacker.getDisplayName()
-            );
+            return Text.translatable(playerKey, victim.getDisplayName(), attacker.getDisplayName());
         }
 
         return Text.translatable(baseKey, victim.getDisplayName());
